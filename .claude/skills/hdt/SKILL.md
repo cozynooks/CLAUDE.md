@@ -10,7 +10,7 @@ description: "Alias for the herdr-tab skill. Delegate a task to a coding agent r
 **いま最初にやること**: Read ツールで次のファイルを読み、その内容を手順書として**そのまま**実行する。
 
 ```
-/Users/koji.kobayashi.wsu/.claude/skills/herdr-tab/SKILL.md
+~/.claude/skills/herdr-tab/SKILL.md
 ```
 
 - 読んだ内容が指示の本体。このファイルに手順を要約して持たせていないのは意図的で、
